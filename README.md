@@ -1,6 +1,6 @@
-# thefirstapp
+# flutter listview
 
-اولین پروژه ی من
+basic projct listview in flutter
 
 ## Getting Started
 
